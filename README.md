@@ -77,8 +77,6 @@ I'm **Jashwanth Aare** — a driven **Java Developer** who's passionate about cr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aarejashwanth18)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JashwanthAare)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-%23000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://github.com/JashwanthAare/Portfolio-Project)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@JashwanthAare)
-[![Medium](https://img.shields.io/badge/Medium-Read%20Articles-%2312100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@JashwanthAare)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/JashwanthAare)
 
 </div>
